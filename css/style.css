@@ -42,3 +42,12 @@ body {
   padding: 4px;
   border-radius: 5px;
   font-size: 30px; }
+
+#logo-normal {
+  height: 60%;
+  width: 60%;
+}
+
+#ntext {
+    color: #000;
+}
